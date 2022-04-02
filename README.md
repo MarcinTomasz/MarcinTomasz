@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcinTomasz
 - 👀 I’m interested in Python
 - 🌱 I’m currently working through Automate the Boring Stuff.
-- 💞️ I’m looking to collaborate on doing the AtBS assignments.
+- 💞️ I’m looking to collaborate on going over the AtBS assignments.
 - 📫 You can reach me on twitter @mt_malek
 
 <!---
