@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcinTomasz
-- 👀 I’m interested in Python
+- 👀 I write python code because I need something to tire out my overactive mind.
 - 🌱 I’m currently working through Automate the Boring Stuff, DataCamp courses and some projects.
 - 💞️ I’m looking to collaborate on going over the AtBS assignments and Data Science courses.
 - 📫 You can reach me on twitter @mt_malek
