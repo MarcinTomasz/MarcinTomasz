@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcinTomasz
-- 👀 I write python code because I need something to tire out my overactive mind.
+- 👀 I write python, html, css, js for kicks.
 - 🌱 I’ve just overthought the ML/AI hype.
 - 💞️ I’m looking to clone some websites.
 - 📫 You can reach me on twitter @mt_malek
