@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcinTomasz
 - 👀 I write python, html, css, js for kicks.
-- 🌱 I’ve just overthought the ML/AI hype.
-- 💞️ I’m looking to clone some websites.
+- 🌱 ML/AI is automated, complex statistics, programmatic combination of images and text prediction.
+- 💞️ For now I clone websites.
 - 📫 You can reach me on twitter @mt_malek
 - 
 - <a href="https://app.daily.dev/mtm"><img src="https://api.daily.dev/devcards/7a6a6e00391e4b389c41fe8ebe089412.png?r=v4w" width="400" alt="MarcinTomasz's Dev Card"/></a>
