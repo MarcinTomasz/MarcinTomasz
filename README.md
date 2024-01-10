@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcinTomasz
+- 👋 Hi, I’m @Marcint0masz
 - 👀 I write python, html, css, js for kicks.
 - 🌱 Nothing fancy just yet.
 - 💞️ Cloning websites and copy pasting code like it's my job.
