@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcinTomasz
-- 👀 I write python, html, css, js for kicks.
-- 🌱 Nothing fancy just yet.
+- 👀 I write tutorial apps out of boredom.
+- 🌱 Nothing fancy.
 - 💞️ Cloning websites and copy pasting code like it's my job.
 - 📫 You can reach me on twitter @LoadingCoding
 - 
