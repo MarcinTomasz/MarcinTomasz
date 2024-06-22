@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MarcinTomasz
-- 👀 I write tutorial apps out of boredom.
-- 🌱 Nothing fancy.
+- 🌱 Growing in python, rust.
 - 💞️ Cloning websites and copy pasting code like it's my job.
 - 📫 You can reach me on twitter @LoadingCoding
 - 
