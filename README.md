@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcinTomasz
-- 🌱 Growing in python, rust.
+- 🌱 Growing by night.
 - 💞️ Cloning websites and copy pasting code like it's my job.
 - 📫 You can reach me on twitter @LoadingCoding
 - 
